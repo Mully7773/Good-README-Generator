@@ -1,2 +1,1 @@
-# Good-README-Generator
-This is a README generator I helped make using node.js and npm
+{"title":"klk","description":"lklk","install":"lklk","usage":"ljl","contribution":"klk","test":"kjkj","license":"ISC","username":"kjj","email":"kjkj"}
