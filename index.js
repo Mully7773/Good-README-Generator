@@ -3,6 +3,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js')
 
+
 // TODO: Create an array of questions for user input
 const questions = [ 
 {
@@ -27,19 +28,19 @@ const questions = [
 },
 {
     name: 'contribution',
-    message: 'Would are the contribution guidelines?',
+    message: 'Tell me about the contribution guidelines?',
     type: 'input'
 },
 {
     name: 'test',
-    message: 'What are the test instructions?',
+    message: 'Tell me about the test instructions?',
     type: 'input'
 },
 {
     name: 'license',
     message: 'What kind of license would you like to use?',
     type: 'list',
-    choices: ['MIT', 'GNU GPLV3', 'ISC', 'afl-3.0']
+    choices: ['MIT', 'GNU GPLV3', 'ISC',]
 },
 {
     name: 'github',
