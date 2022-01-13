@@ -1,1 +1,32 @@
-{"title":"klk","description":"lklk","install":"lklk","usage":"ljl","contribution":"klk","test":"kjkj","license":"ISC","username":"kjj","email":"kjkj"}
+# Amazing!!!
+
+  ## Description
+
+  asdfadsf
+
+  ## Installation
+
+  asfsf 
+
+  ## Usage
+
+  asfsadfdfa
+
+  ## Contribution
+
+  dzxcvzxcv
+
+  ## Test
+
+  zxvzwe
+
+  ## License
+
+  GNU GPLV3
+
+  ## Questions
+
+  * Contact me at sdfsd
+
+  * Github Profile Link: sdfsdf
+
