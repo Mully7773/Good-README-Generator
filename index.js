@@ -28,12 +28,12 @@ const questions = [
 },
 {
     name: 'contribution',
-    message: 'Tell me about the contribution guidelines?',
+    message: 'Tell me about the contribution guidelines.',
     type: 'input'
 },
 {
     name: 'test',
-    message: 'Tell me about the test instructions?',
+    message: 'Tell me about the test instructions.',
     type: 'input'
 },
 {
