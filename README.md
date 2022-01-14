@@ -1,10 +1,10 @@
-# Wizards and Warriors
+# Good-README-Generator
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  Wizrobes
+  A good readme generator
 
   ## Table of Contents
   * [Installation](#installation)
@@ -16,26 +16,26 @@
 
   ## Installation
 
-  It's dangerous to go alone 
+  npm install 
 
   ## Usage
 
-  Master Sword
+  CLA
 
   ## Contribution
 
-  Triforce of Courage
+  n/a
 
   ## Test
 
-  Stalfos
+  n/a
 
 
   ## Questions
 
-  * Contact me at Navi
+  * Contact me at mully7773@gmail.com
 
-  * Github Profile Link: Minish Cap
+  * Github Profile Link: https://github.com/Mully7773
 
   ## License
   Licensed under the MIT license. Please click the license badge beneath the title for more information.
