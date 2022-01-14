@@ -1,8 +1,10 @@
-# The Title is Awesome
+# Wizards and Warriors
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  The description is marvelous
+  Wizrobes
 
   ## Table of Contents
   * [Installation](#installation)
@@ -10,31 +12,30 @@
   * [Contribution](#contribution) 
   * [Test](#test)
   * [License](#license) 
-  * [Questions](#Questions)  
+  * [Questions](#questions)  
 
   ## Installation
 
-  Installation is instantaneous 
+  It's dangerous to go alone 
 
   ## Usage
 
-  Usage is naught but a small thing
+  Master Sword
 
   ## Contribution
 
-  Would be best...
+  Triforce of Courage
 
   ## Test
 
-  Test as much as you like.
+  Stalfos
 
-  ## License
-
-  MIT
 
   ## Questions
 
-  * Contact me at doublesomething@doublesomething.com
+  * Contact me at Navi
 
-  * Github Profile Link: something@something.com
+  * Github Profile Link: Minish Cap
 
+  ## License
+  Licensed under the MIT license. Please click the license badge beneath the title for more information.
